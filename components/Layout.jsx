@@ -11,7 +11,7 @@ const Layout = ({ children }) => {
         <title>Ecommerce</title>
       </Head>
       <header>
-        <Navbar />
+        <Navbar/>
       </header>
       <main className="main-container">
         {children}
